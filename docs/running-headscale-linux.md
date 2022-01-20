@@ -3,7 +3,7 @@
 ## Goal
 
 This documentation has the goal of showing a user how-to set up and run `headscale` on Linux.
-In additional to the "get up and running section", there is an optional [SystemD section](#running-headscale-in-the-background-with-systemd)
+In addition to the "get up and running section", there is an optional [SystemD section](#running-headscale-in-the-background-with-systemd)
 describing how to make `headscale` run properly in a server environment.
 
 ## Configure and run `headscale`
